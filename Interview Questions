@@ -1,4 +1,16 @@
 # Interview Questions 
 
 ## Tell me about yourself?
-- My name is Surosh Latif and im from Edinburgh, Scotland. 
+- My name is Surosh Latif and im from Edinburgh, Scotland. I'm a recent graduate from Kingston University in London where I graduated as an Aerospace Engineer. Recently, I have had the opportunity to look into Python and learn the basics of coding. Through this I found a passion for coding which resulted in myself transitioning from aerospace engineering into DevOps through my love of coding and tech. Currently I am working with Sparta Global in pursuit of becoming a Junior DevOps Consultant.
+
+### What is DevOps and benefit of using it ? 
+- DevOps is a compound of development and operations. DevOps enables formely siloed roles such as IT Operations and Quality Engineering to produce and deliver more reliable products. So, by adapting the DevOps culture teams gain the ability to better respond to customer needs. Some of the benefits of DevOps Include;
+1. Accelerating time to market
+2. Adapting to the market and competition. 
+
+#### What is Agile and the benefit of Implementing it? 
+- Agile is an iterative approach to project managment and software development that helps deliver value to their customers faster. An agile team delivers work in small, consumable, increments. Benefits of implementing agile include; 
+1. Better control of projects due to transparency.
+2. Increased focus on specific needs of the customer.
+3. Faster project turnover time.
+
