@@ -26,3 +26,9 @@
 ###### Where do you see youself in 2-5 years time? 
 - In 2-5 years time I would like to see myself having gained professional DevOps experience through working with either 1 or 2 clients withing the first 2 years. Past this I like to be permanent with a client ideally within the aerospace sector as I can conbime my two experiences with aerospace engineering and DevOps. 
 
+What is a Join?
+A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
+INNER JOIN: Returns records that have matching values in both tables
+LEFT JOIN: Returns all records from the left table, and the matched records from the right table
+RIGHT JOIN: Returns all records from the right table, and the matched records from the left table
+FULL JOIN: Returns all records when there is a match in either left or right table
